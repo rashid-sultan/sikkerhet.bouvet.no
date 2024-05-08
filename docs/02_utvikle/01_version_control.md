@@ -21,3 +21,4 @@ Informasjon rundt bruk av versjonskontroll
     - Autentisering
 - Public eller private repository?
     - Vurderes per system
+- Integrasjon med verktøy som Snyk for kode/bibliotek skanning for sårbarheter
