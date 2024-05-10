@@ -35,3 +35,4 @@ sikkerhetsfikser?)
    - typosquatting, i.e. ondsinnede pakker med navn som ligner på legitim pakke
    - dependency confusion. Angripere overstyrer pakkenavn fra internt pakkerepo med ondsinnet pakke med samme navn fra public pakkerepo.
 - Kjør automatisk sjekk av depedencies i CI
+    - Ved oppfinnelse av utdatert depencies bør det legges in ny task i backlogg for oppdatere biblioteker, sånn at prosjektleder/scrum master for dette med seg
